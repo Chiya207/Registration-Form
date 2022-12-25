@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 38px;
+    font-size: 41px;
+    color: whitesmoke;
+}
+
+h3 {
+    color: white;
+    margin-top: 54px;
+    text-align: center;
+    font-size: 34px;
+}
+
+body {
+    background-color: #10A19D;
+}
+
+.container {
+    background-color: #F0E9D2;
+    height: 400px;
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 400px;
+    text-align: left;
+    margin-left: 398px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.input {
+    margin-top: 14px;
+    padding-left: 30px;
+    padding-bottom: 24px;
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+.in:hover {
+    background-color: #F1F6F5;
+}
+
+.in {
+    height: 24px;
+    width: 234px;
+    border: 2px solid rgb(63, 7, 7);
+    border-radius: 3px;
+}
+
+#entry:hover {
+    background-color: brown;
+}
+
+#entry {
+    text-align: center;
+    color: white;
+    background-color: #10A19D;
+    width: 109px;
+    height: 24px;
+    margin-left: 160px;
+    margin-bottom: 23px;
+    border-radius: 6px;
+}
+
+table:hover {
+    background-color: #F1F6F5;
+}
+
+table {
+    background-color: #F0E9D2;
+    border-collapse: collapse;
+    width: 50%;
+    margin: 45px auto;
+}
+
+table,
+th,
+td {
+    border: 2px solid black;
+    padding: 6px;
+}
